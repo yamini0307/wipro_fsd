@@ -1,0 +1,14 @@
+C:\Users\Yamini\source\repos\sl-wipro-dotnet-fsd-training\WiproTraining\Phase1Project\obj\Debug\netcoreapp3.1\Phase1Project.csproj.AssemblyReference.cache
+C:\Users\Yamini\source\repos\sl-wipro-dotnet-fsd-training\WiproTraining\Phase1Project\obj\Debug\netcoreapp3.1\Phase1Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yamini\source\repos\sl-wipro-dotnet-fsd-training\WiproTraining\Phase1Project\obj\Debug\netcoreapp3.1\Phase1Project.AssemblyInfoInputs.cache
+C:\Users\Yamini\source\repos\sl-wipro-dotnet-fsd-training\WiproTraining\Phase1Project\obj\Debug\netcoreapp3.1\Phase1Project.AssemblyInfo.cs
+C:\Users\Yamini\source\repos\sl-wipro-dotnet-fsd-training\WiproTraining\Phase1Project\obj\Debug\netcoreapp3.1\Phase1Project.csproj.CoreCompileInputs.cache
+C:\Users\Yamini\source\repos\sl-wipro-dotnet-fsd-training\WiproTraining\Phase1Project\bin\Debug\netcoreapp3.1\Phase1Project.exe
+C:\Users\Yamini\source\repos\sl-wipro-dotnet-fsd-training\WiproTraining\Phase1Project\bin\Debug\netcoreapp3.1\Phase1Project.deps.json
+C:\Users\Yamini\source\repos\sl-wipro-dotnet-fsd-training\WiproTraining\Phase1Project\bin\Debug\netcoreapp3.1\Phase1Project.runtimeconfig.json
+C:\Users\Yamini\source\repos\sl-wipro-dotnet-fsd-training\WiproTraining\Phase1Project\bin\Debug\netcoreapp3.1\Phase1Project.runtimeconfig.dev.json
+C:\Users\Yamini\source\repos\sl-wipro-dotnet-fsd-training\WiproTraining\Phase1Project\bin\Debug\netcoreapp3.1\Phase1Project.dll
+C:\Users\Yamini\source\repos\sl-wipro-dotnet-fsd-training\WiproTraining\Phase1Project\bin\Debug\netcoreapp3.1\Phase1Project.pdb
+C:\Users\Yamini\source\repos\sl-wipro-dotnet-fsd-training\WiproTraining\Phase1Project\obj\Debug\netcoreapp3.1\Phase1Project.dll
+C:\Users\Yamini\source\repos\sl-wipro-dotnet-fsd-training\WiproTraining\Phase1Project\obj\Debug\netcoreapp3.1\Phase1Project.pdb
+C:\Users\Yamini\source\repos\sl-wipro-dotnet-fsd-training\WiproTraining\Phase1Project\obj\Debug\netcoreapp3.1\Phase1Project.genruntimeconfig.cache
